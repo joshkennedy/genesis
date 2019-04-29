@@ -1,12 +1,16 @@
 # Genesis
 
 ### Install dependencies
-> yarn install
+```sh
+yarn install
+```
 
 ### Run development server
-> yarn start
+```sh
+yarn start
+```
 
-> Navigate to `http://localhost:8080/`
+Navigate to `http://localhost:8080/`
 
 ### Build
 > Run `npm run build:dev` to build the project for development. 
